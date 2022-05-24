@@ -10,7 +10,7 @@
 
 int main(void){
 
-    InitWindow(GetScreenWidth(), GetScreenHeight(), "Needle Knight");
+    InitWindow(1360, 766, "Needle Knight");
 
     //ToggleFullscreen();
     SetTargetFPS(60);
