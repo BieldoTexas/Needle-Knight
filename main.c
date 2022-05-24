@@ -12,7 +12,7 @@ int main(void){
 
     InitWindow(GetScreenWidth(), GetScreenHeight(), "Needle Knight");
 
-    ToggleFullscreen();
+    //ToggleFullscreen();
     SetTargetFPS(60);
 
     InitAudioDevice();
